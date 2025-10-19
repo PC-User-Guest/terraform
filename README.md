@@ -25,7 +25,6 @@ For more information, refer to the [What is Terraform?](https://www.terraform.io
 ## Getting Started & Documentation
 
 Documentation is available on the [Terraform website](https://www.terraform.io):
-
 - [Introduction](https://www.terraform.io/intro)
 - [Documentation](https://www.terraform.io/docs)
 
